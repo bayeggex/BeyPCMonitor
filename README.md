@@ -19,25 +19,26 @@ Writed by C++ this program provides a simple yet powerful way to retrieve hardwa
 
 Clone the repository:
 ```
-git clonehttps://github.com/bayeggex/.git
+git clonehttps://github.com/bayeggex/beypcmonitor.git
 ```
 
 Navigate to the project directory:
 ```
-cd hardware-info-cpp
+cd beypcmonitor
 
 ```
 
 Compile the code:
 
-```g++ main.cpp -o hardware-info
+```
+g++ beypcmonitor.cpp -o beypcmonitor
 
 ```
 
 Run the executable:
 
 ```
-./hardware-info
+./beypcmonitor
 ```
 
 
@@ -45,10 +46,9 @@ Run the executable:
 
 The code is adapted for educational purposes and inspired by real-world system information retrieval tools.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 ## PLUS
 
